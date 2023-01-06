@@ -149,3 +149,31 @@ margin-bottom: 10px;
     text-align: center;
     margin-top: 50px;
 }
+/*contact style*/
+ .contact-item{
+    display: flex;
+    margin-top: 100px;
+    gap: 40px;
+    background: #FFF8F3;
+    width: 1600px;
+    height: 400px;
+
+ }
+ .contact-title{
+    width: 227px;
+    height: 48px;
+ }
+ .contact-description{
+    color: #757575;
+    margin: top 1000px;
+    font-weight: 400;
+font-size: 16px;
+ }
+ .contact-icon{
+    gap:30px;
+    display: flex;
+    width: 120px;
+height: 24px;}
+.contact-right{
+
+}
