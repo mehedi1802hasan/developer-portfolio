@@ -80,6 +80,7 @@ padding: 130px 150px;
     font-weight: 700;
     font-size: 35px;
     text-align: center;
+    margin-bottom: 50px;;
 }
 .section-description{
     font-weight: 400;
@@ -114,4 +115,37 @@ section-what{
 .skill-title{
     font-weight: 700;
     font-size: 20px;
+}
+/*resume style*/
+.resume{
+
+}
+.resume-contant{
+display:flex;
+gap:25px;
+}
+.resume .title{
+color:black;
+font-size: 25px;
+font-weight: 700;
+margin-bottom: 10px;
+}
+.resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.resume .description{
+    color:#757575;
+
+}
+.resume-item{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.resume-button{
+    text-align: center;
+    margin-top: 50px;
 }
