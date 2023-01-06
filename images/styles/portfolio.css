@@ -5,7 +5,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin:50px 200px;
+    padding:50px 200px;
 }
 .nav-title{
     font-size: 45px;
@@ -24,7 +24,7 @@ ul li{
 }
 .btn-primary{
     background-color: orange;
-    width: 150px;
+    width: 180px;
     height: 64px;
     padding:18px 30px;
     color: rgb(255, 249, 249);
